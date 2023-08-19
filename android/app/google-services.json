@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657132908290",
+    "project_id": "tajungsari-e7573",
+    "storage_bucket": "tajungsari-e7573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657132908290:android:a2895bfaf390986c755c1b",
+        "android_client_info": {
+          "package_name": "com.example.sendang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657132908290-i0367gicfrpb2lt6rp50f6nuhtcdv5fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYpaf87BqvAUsV50A863R5FyyTSBbV7yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657132908290-i0367gicfrpb2lt6rp50f6nuhtcdv5fb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
